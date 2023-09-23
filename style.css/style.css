@@ -1,0 +1,16 @@
+.menu li {
+    list-style: none;
+    width: 120px;
+    height: 50px;
+    color: darkblue;
+}
+
+#main-div {
+    background-image: url('../ideogram (29).jpeg');
+    height: 100vh;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
